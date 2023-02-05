@@ -380,26 +380,4 @@ public class ShoppingApps {
         createMember("Donald", "Donald1693", "Donald Duck", "49", "0492847794", "160 victoria st, Clayton Vic 3168", "Donald0021@coles.com");
     }
 
-    //        System.out.println("Enter the number of items you like to scan: ");
-//        Scanner scanner = new Scanner(System.in);
-//        int quantity = scanner.nextInt();
-//
-//        double total = 0;
-//
-//        for (int i = 0; i < quantity; i+= 0){
-//            System.out.println("Enter the cost of the item:");
-//            double price = scanner.nextDouble();
-//            System.out.println("Enter number of the selected item: ");
-//            int objectNo = scanner.nextInt();
-//            i += objectNo;
-//            if (i > quantity){
-//                System.out.println("quantity exceed!!");
-//            }
-//            else {
-//                total = total + price * objectNo;
-//            }
-//
-//        scanner.close();
-//
-//        System.out.println("Your total is $" + total);
 }
