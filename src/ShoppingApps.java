@@ -76,10 +76,10 @@ public class ShoppingApps {
     }
 
     public int voucherConfirmation(){
-        System.out.println("Please Confirm your voucher: ");
         Scanner confirmScan = new Scanner(System.in);
         System.out.println("1) Confirm");
         System.out.println("2) Back");
+        System.out.println("Please Confirm your voucher: ");
         return confirmScan.nextInt();
     }
 
